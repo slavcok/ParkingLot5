@@ -1,0 +1,7 @@
+content:
+- Null safety
+- Nested and inner classes
+- Type system
+- Inheritance
+- toString()
+- Data class
